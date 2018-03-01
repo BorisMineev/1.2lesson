@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "398688098936",
+    "firebase_url": "https://lesson1-2.firebaseio.com",
+    "project_id": "lesson1-2",
+    "storage_bucket": "lesson1-2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:398688098936:android:51b04da9e45af86e",
+        "android_client_info": {
+          "package_name": "net.lesson1_2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "398688098936-cj774rp4pabvcei201ci8ce4a9bg86ka.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB06x1GyMZccHNx3PcFCgcHQ_5Vj5Rmc4w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
